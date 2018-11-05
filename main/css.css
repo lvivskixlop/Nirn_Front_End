@@ -1,0 +1,64 @@
+.wraper {
+    width: 1060px;
+    margin: auto;
+}
+.main{
+	position: relative;
+	background: #474646;
+	opacity: 0.86;
+	color: #fff;
+	padding: 40px 30px;
+    margin-left: 190px;
+    width: 800px;
+}
+.menu{
+	width: 70px;
+	background: #000;
+	border-style: none;
+}
+.menu a{
+   display:block;
+   background:#154012;
+   height:40px;
+   width:175px;
+   padding-top:12px;
+   margin:3px 2px 4px 2px;
+   float: left;
+
+   font-family:impact;
+   font-size:13pt;
+   letter-spacing:3px;
+   color:#EA0606;
+   text-decoration:none;
+   text-align:center;
+}
+.menu a:hover{
+   background:#392121;
+   color:#E2D2F6;
+}
+.body{
+	background: url(../img/back.jpg);
+}
+p{
+	text-indent: 35px;
+	font-size: 17pt;
+	font-style: Monaco;
+	
+}
+.top_index{
+	background: url(../img/tamriel.jpg);
+	width: 650px;
+	height: 442px;
+	margin: auto;
+	border: 2px;
+    border-style: groove;
+    border-color: #A18B65
+}
+.a{
+	text-decoration: none;
+	color: #fff;
+}
+img {
+	margin: auto;
+	padding: 10px 65px;
+}
